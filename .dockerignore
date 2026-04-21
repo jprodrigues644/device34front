@@ -1,0 +1,28 @@
+# 
+node_modules/
+
+
+.npm/
+
+# Build local
+dist/
+
+# Git
+.git/
+.gitignore
+
+# IDE
+.vscode/
+.idea/
+
+# Docker
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Logs
+*.log
+npm-debug.log*
+
+# Tests
+coverage/
